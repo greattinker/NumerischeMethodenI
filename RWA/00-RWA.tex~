@@ -1,0 +1,7 @@
+\chapter{Formulierung und näherungsweise Lösung von Randwertaufgaben (RWA)}
+\input{RWA/01-Randwertaufgabe}
+\input{RWA/02-Formulierung-RWA}
+\input{RWA/03-Loesen-RWA}
+
+\includepdf[pages={1},scale=0.8]{../Uebung/NM1_Uebung01_Aufgabe_2013.pdf}
+\input{RWA/04-Uebung}
