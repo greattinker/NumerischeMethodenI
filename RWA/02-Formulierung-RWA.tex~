@@ -5,7 +5,7 @@ Beispiel Zugstab\\
 Auswertung von Bilanzgleichungen an einem infinitessimalen Volumenelement\\
 \begin{itemize}
 \item Gleichgewichtsbedingung: \\
-\(\downarrow -F_L + F_L + dF_L + q\,dx = 0 \\\\ \frac{dF_L}{dx} = -q \\\\ F_L' = -q\)
+\(\Downarrow -F_L + F_L + dF_L + q\,dx = 0 \\\\ \frac{dF_L}{dx} = -q \\\\ F_L' = -q\)
 
 \item kinetische Annahme:\\
 	\(F_L = \sigma \cdot A \)
